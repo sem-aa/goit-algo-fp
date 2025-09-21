@@ -1,4 +1,4 @@
-from tree_data import Node
+from task_4.tree_data import Node
 
 def build_heap_tree(heap):
     """Будує бінарне дерево з масиву (представлення бінарної купи)"""

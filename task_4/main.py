@@ -1,5 +1,5 @@
-from tree_data import draw_tree
-from heap_utils import build_heap_tree
+from task_4.tree_data import draw_tree
+from task_4.heap_utils import build_heap_tree
 
 # Example heap array
 heap_array = [10, 15, 30, 40, 50, 100, 40]

@@ -1,4 +1,4 @@
-from linked_list import LinkedList, Node
+from task_1.linked_list import LinkedList, Node
 
 # 1. Reverse list
 def reverse_list(head):

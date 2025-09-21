@@ -1,4 +1,4 @@
-from dijkstra import Graph
+from task_3.dijkstra import Graph
 
 if __name__ == "__main__":
     g = Graph()
